@@ -7,7 +7,7 @@ This Jupyter notebook contains a step-by-step guide to getting started with twil
 In order to run this file, you need to create a twilio account.
 Then, create info.py file with your account info in the same directory as this repository. It should look like this:
 ```
-acountSID = 'xxxxx'
+accountSID = 'xxxxx'
 authToken = 'xxxxx'
 personalNum = '+11234567890'
 
