@@ -1,0 +1,7 @@
+info.py
+/__pycache__
+.ipynb_checkpoints
+/bin
+/include
+/lib
+.Python
